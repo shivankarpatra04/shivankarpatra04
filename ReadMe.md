@@ -51,8 +51,8 @@ Open to connecting with people working at the intersection of AI and industry. I
 ### 🤖 AI Knowledge Assistant
 RAG-powered platform that enables business teams to query pharmaceutical documents and product information using natural language.
 
-### 📈 Job Application Tracker
-Full-stack analytics platform to track job applications, interviews, and job search performance.
+### 🛠️ AI Tools Platform
+A multi-tool AI platform that brings together specialized productivity and content-generation tools powered by advanced prompt engineering and LLM workflows
 
 ### 💬 AI Relationship Advisor
 AI-powered counseling platform using multiple LLM providers and conversation memory.
