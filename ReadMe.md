@@ -50,15 +50,19 @@ Open to connecting with people working at the intersection of AI and industry. I
 
 ### 🤖 AI Knowledge Assistant
 RAG-powered platform that enables business teams to query pharmaceutical documents and product information using natural language.
+🔗 Live Demo: https://pharmaregbot-doesfowskfujytsgelxwsf.streamlit.app/
 
 ### 🛠️ AI Tools Platform
 A multi-tool AI platform that brings together specialized productivity and content-generation tools powered by advanced prompt engineering and LLM workflows
+🔗 Live Demo: https://ai-tool-platform-jet.vercel.app/
 
 ### 💬 AI Relationship Advisor
 AI-powered counseling platform using multiple LLM providers and conversation memory.
+🔗 Live Demo: https://relationest-frontend.vercel.app/
 
 ### 🎬 Content Genie
 AI-powered content analysis and generation platform built with Gemini and NLP models.
+🔗 Live Demo: https://content-gini.vercel.app/
 
 ---
 
